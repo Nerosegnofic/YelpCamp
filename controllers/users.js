@@ -27,7 +27,7 @@ module.exports.renderLogin = (req, res) => {
 };
 
 module.exports.login = (req, res) => {
-    req.flash("success", "welcome back!");
+    req.flash("success", "Welcome Back!");
     const redirectUrl = res.locals.returnTo || "/campgrounds";
     res.redirect(redirectUrl);
 };
