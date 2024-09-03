@@ -30,12 +30,12 @@ const seedDB = async () => {
             },
             images: [
                 {
-                    url: 'https://res.cloudinary.com/dz0w8ahnb/image/upload/v1724915394/denys-nevozhai-63Znf38gnXk-unsplash_clyclp.jpg',
-                    filename: 'YelpCamp/denys-nevozhai-63Znf38gnXk-unsplash_clyclp'
-                },
-                {
                     url: 'https://res.cloudinary.com/dz0w8ahnb/image/upload/v1724915391/wei-pan-Ta0A1miYZKc-unsplash_csrn4i.jpg',
                     filename: 'YelpCamp/wei-pan-Ta0A1miYZKc-unsplash_csrn4i'
+                },
+                {
+                    url: 'https://res.cloudinary.com/dz0w8ahnb/image/upload/v1724919890/YelpCamp/wlsdmgaxy3pwzdxsobrg.jpg',
+                    filename: 'YelpCamp/wlsdmgaxy3pwzdxsobrg'
                 }
             ]
         });
