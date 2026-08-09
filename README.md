@@ -77,5 +77,8 @@ Building this project was a significant milestone in my development as a Backend
 
 ## 📬 Contact
 **Ahmed Abdelnabi**  
-[GitHub](https://github.com/Nerosegnofic) | [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)  
+[GitHub](https://github.com/Nerosegnofic) | [LinkedIn](https://www.linkedin.com/in/a-abdelnabi/)  
 *Backend Engineer*
+
+## 📄 License
+This project is licensed under the MIT License.
