@@ -18,10 +18,6 @@ A simple Yelp-like campground review app built with Node.js, Express, MongoDB, a
 - Multer / Cloudinary for image uploads
 - Optional: Bootstrap or Tailwind for styling (depending on project files)
 
-## Demo
-(If you have a live demo, link it here)
-- Live: https://your-deployment-url.example
-
 ## Getting started (local development)
 1. Clone the repo
    git clone https://github.com/Nerosegnofic/YelpCamp.git
@@ -51,8 +47,6 @@ CLOUDINARY_API_KEY=your_api_key
 CLOUDINARY_API_SECRET=your_api_secret
 # If using Mapbox or another geocoding provider:
 MAPBOX_TOKEN=your_mapbox_token
-
-Adjust names to match what the code expects. If you want, I can scan the repo to generate an exact `.env.example`.
 
 ## Database seeding
 If the project includes seed scripts, run them to populate the database with sample campgrounds and users.
@@ -103,9 +97,6 @@ Adjust the list above to match the actual repository layout.
 - MongoDB connection errors: check MONGO_URI and that MongoDB is running.
 - Image upload errors: verify Cloudinary keys and upload settings.
 - Sessions not persisting: ensure SESSION_SECRET is set and session store is configured.
-
-## License
-If you want to add a license, include a LICENSE file (e.g., MIT) and reference it here.
 
 ## Acknowledgements
 - Colt Steele's "YelpCamp" tutorial (if this repo is based on it) or other learning resources
