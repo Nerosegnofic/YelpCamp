@@ -98,9 +98,5 @@ Adjust the list above to match the actual repository layout.
 - Image upload errors: verify Cloudinary keys and upload settings.
 - Sessions not persisting: ensure SESSION_SECRET is set and session store is configured.
 
-## Acknowledgements
-- Colt Steele's "YelpCamp" tutorial (if this repo is based on it) or other learning resources
-- Any libraries, contributors, or services used (Cloudinary, Mapbox, etc.)
-
 ## Contact
 For questions or issues, open an issue on the repository or contact the maintainer: https://github.com/Nerosegnofic
